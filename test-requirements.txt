@@ -1,5 +1,0 @@
--r requirements.txt
-alembic
-pycodestyle
-pytest
-coverage
